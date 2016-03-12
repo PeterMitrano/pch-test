@@ -1,5 +1,3 @@
-#pragma message("Do not include this file unless generating precompiled headers")
-
 #include <boost/algorithm/string.hpp>
 #include <boost/algorithm/string/classification.hpp>
 #include <boost/algorithm/string/regex.hpp>
