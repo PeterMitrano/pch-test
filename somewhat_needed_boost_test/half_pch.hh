@@ -1,0 +1,11 @@
+#include <boost/filesystem/path.hpp>
+#include <boost/function.hpp>
+#include <boost/iostreams/copy.hpp>
+#include <boost/iostreams/filter/gzip.hpp>
+#include <boost/iostreams/filtering_streambuf.hpp>
+#include <boost/lexical_cast.hpp>
+#include <boost/shared_ptr.hpp>
+#include <boost/thread.hpp>
+#include <boost/thread/mutex.hpp>
+#include <boost/unordered_map.hpp>
+#include <boost/uuid/sha1.hpp>
